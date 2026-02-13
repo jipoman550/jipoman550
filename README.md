@@ -28,11 +28,6 @@
 
 ---
 
-### 📈 Activity Graph
-[![Jiseong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jipoman550&theme=react-dark)](https://github.com/jipoman550)
-
----
-
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%8B%9C%EC%98%A8-%EC%84%B1-571b3b277/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sionsbed2@gmail.com)
