@@ -1,12 +1,14 @@
-# 👨‍💻 안녕하세요, 임베디드 소프트웨어 개발자 성시온입니다!
+# 👨‍💻 Hi, I'm Sion Seong, an Embedded Software Engineer!
 
-> **"Hardware-Software Bridge Builder"** ---
+> **"Bridging the Gap Between Hardware and Software through Deep Technical Understanding"**
+
+---
 
 ### 🚀 About Me
 - 🎓 **Current Learning**: **42Gyeongsan** (Software Architecture & System Programming)
-- 🏎️ **Current Project**: **S32K144EVB** 기반 임베디드 시스템 설계 및 펌웨어 개발
-- 🎯 **Focus**: Bare-metal programming, Peripheral Drivers (PWM, FTM)
-- 🌱 **Goal**: **"이유 있는 코드"를 짜는 엔지니어.** 단순 구현을 넘어 데이터시트와 하드웨어 아키텍처를 근거로 로직의 당위성을 설명할 줄 아는 개발자로 성장하기
+- 🏎️ **Current Project**: Firmware development & system design based on **NXP S32K144EVB**
+- 🎯 **Focus**: Bare-metal programming, Peripheral Drivers (FTM, ADC, UART), and Real-time Debugging
+- 🌱 **Goal**: I strive to be an engineer who doesn't just write code, but **understands and explains the "Why"** behind every hardware configuration and software logic based on Datasheets and Reference Manuals.
 
 ---
 
