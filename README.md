@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm Sion Seong, an Embedded Software Engineer!
+# 👨‍💻 Hi, I'm Sion Sung, an Embedded Software Engineer!
 
 > **"Bridging the Gap Between Hardware and Software through Deep Technical Understanding"**
 
